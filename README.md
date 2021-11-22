@@ -1125,5 +1125,3 @@ plt.colorbar(format='%+2.0f dB')
 ![png](images/output_108_1.png)
     
 
-##### references
-- [오디오 처리 Audio Processing](https://www.youtube.com/watch?v=oltGIc4uo5c&list=PL7ZVZgsnLwEGskuPmm2-pYsNKY8Ihs5AP)
